@@ -1,5 +1,8 @@
 # Company Connector
 
+## Team Contract
+[Contract](https://docs.google.com/document/d/1jCrtQtuHDYKzxooiK5d0gwH46wF7ocCgxg2zBi5oKk0/edit)
+
 ## Table of contents
 
 * [Overview](#overview)
