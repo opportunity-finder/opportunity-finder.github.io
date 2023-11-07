@@ -1,4 +1,4 @@
-# Bowfolios
+# Company Connector
 
 ## Table of contents
 
