@@ -1,4 +1,4 @@
-# Company Connector
+# Opportunity Finder
 
 ## Team Contract
 [Contract](https://docs.google.com/document/d/1jCrtQtuHDYKzxooiK5d0gwH46wF7ocCgxg2zBi5oKk0/edit)
@@ -289,7 +289,7 @@ The following sections document the development history of BowFolios.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
-Milestone 1 was managed using [BowFolio GitHub Project Board M1](https://github.com/bowfolios/bowfolios/projects/1):
+Milestone 1 was managed using [BowFolio GitHub Project Board M1](https://github.com/orgs/opportunity-finder/projects/1):
 
 ![](images/project-board-1.png)
 
