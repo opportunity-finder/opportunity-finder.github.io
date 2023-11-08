@@ -1,7 +1,5 @@
 # Opportunity Finder
 
-## Team Contract
-[Contract](https://docs.google.com/document/d/1jCrtQtuHDYKzxooiK5d0gwH46wF7ocCgxg2zBi5oKk0/edit)
 
 ## Table of contents
 
@@ -38,22 +36,6 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/landing-page.png)
 
-### Index pages (Projects, Profiles, Interests)
-
-Bowfolios provides three public pages that present the contents of the database organized in various ways.
-
-The Profiles page shows all the current defined profiles and their associated Projects and Interests:
-
-![](images/profiles-page.png)
-
-The Projects page shows all the currently defined Projects and their associated Profiles and Interests:
-
-![](images/projects-page.png)
-
-Finally, the Interests page shows all the currently defined Interests, and their associated Profiles and Projects:
-
-![](images/interests-page.png)
-
 
 ### Sign in and sign up
 
@@ -71,14 +53,14 @@ After logging in, you are taken to the home page, which presents a form where yo
 
 ![](images/home-page.png)
 
-### Add Project page
+### Add Item
 
 Once you are logged in, you can define new projects with the Add Project page:
 
 ![](images/add-project-page.png)
 
 
-### Filter page
+### Edit Item
 
 The Filter page provides the ability to query the database and display the results in the page. In this case, the query displays all of the Profiles that match one or more of the specified Interest(s).
 
@@ -87,13 +69,6 @@ The Filter page provides the ability to query the database and display the resul
 ## Community Feedback
 
 We are interested in your experience using Bowfolio!  If you would like, please take a couple of minutes to fill out the [Bowfolios Feedback Form](https://forms.gle/hBHdccQEbm4YNfPd6). It contains only five short questions and will help us understand how to improve the system.
-
-## Developers
-
-1. Juvy Ann Lucero
-2. Matthew Fallah
-3. Ethan Mamuad 
-4. Yafei, Wang
 
 
 ### Installation
@@ -116,6 +91,21 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
+## Team Contract
+[Contract](https://docs.google.com/document/d/1jCrtQtuHDYKzxooiK5d0gwH46wF7ocCgxg2zBi5oKk0/edit)
+
+## Developers
+
+1. Juvy Ann Lucero
+2. Matthew Fallah
+3. Ethan Mamuad 
+4. Yafei, Wang
+
+
+///////////////////////////////////////////////////////
+
+----------
+----------
 ### Application Design
 
 Bowfolios is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Bowfolios.
@@ -333,3 +323,22 @@ There are a number of simple enhancements you can make to the system to become b
 ## Team
 
 BowFolios is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org) and [Cam Moore](https://cammoore.github.io/).
+
+
+///////////////////////////
+### Index pages (Projects, Profiles, Interests)
+
+Bowfolios provides three public pages that present the contents of the database organized in various ways.
+
+The Profiles page shows all the current defined profiles and their associated Projects and Interests:
+
+![](images/profiles-page.png)
+
+The Projects page shows all the currently defined Projects and their associated Profiles and Interests:
+
+![](images/projects-page.png)
+
+Finally, the Interests page shows all the currently defined Interests, and their associated Profiles and Projects:
+
+![](images/interests-page.png)
+
