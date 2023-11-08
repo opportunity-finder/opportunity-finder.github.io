@@ -43,7 +43,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ### Sign in and sign up
 
-Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
+Click on the "Login" button in the upper right corner of the navbar, then select "Submit" to go to the following page and login. You must have been previously registered with the system to use this option:
 
 ![](OP-login.png)
 
@@ -75,9 +75,9 @@ The Filter page provides the ability to query the database and display the resul
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, visit the [Bowfolios application github page](https://github.com/bowfolios/bowfolios), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+Second, visit the [Opportunity Finder application github page](https://github.com/bowfolios/bowfolios), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
 
-Third, cd into the bowfolios/app directory and install libraries with:
+Third, cd into the Opportunity-Finder/app directory and install libraries with:
 
 ```
 $ meteor npm install
@@ -94,7 +94,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 ## Community Feedback
 
-We are interested in your experience using Bowfolio!  If you would like, please take a couple of minutes to fill out the [ Feedback Form](https://forms.gle/hBHdccQEbm4YNfPd6). It contains only five short questions and will help us understand how to improve the system.
+We are interested in your experience using Opportunity Finder!  If you would like, please take a couple of minutes to fill out the [ Feedback Form](https://forms.gle/hBHdccQEbm4YNfPd6). It contains only five short questions and will help us understand how to improve the system.
 
 
 ## Team Contract
