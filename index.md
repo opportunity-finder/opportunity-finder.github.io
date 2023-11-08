@@ -1,5 +1,6 @@
 # Opportunity Finder
 
+![](OP1.png)
 
 ## Table of contents
 
@@ -36,19 +37,19 @@ This section provides a walkthrough of the Company Connector interface and its c
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](OP1.png)
-<img src="OP1.png">
+
+<img src="OP-home.png">
 
 
 ### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-![](images/signin-page.png)
+![](OP-login.png)
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-![](images/signup-page.png)
+![](OP-sinup.png)
 
 ### Home page
 
