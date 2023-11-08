@@ -32,6 +32,7 @@ Many UH computer science and engineering students want to learn about internship
 This section provides a walkthrough of the Company Connector interface and its capabilities.
 
 ### Landing Page
+----------
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
