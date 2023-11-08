@@ -36,8 +36,8 @@ This section provides a walkthrough of the Company Connector interface and its c
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-page.png)
-<img src="page1.png">
+![](OP1.png)
+<img src="OP1.png">
 
 
 ### Sign in and sign up
