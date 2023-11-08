@@ -4,7 +4,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Deployment](#deployment)
+* [Implements](#implements)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -66,10 +66,6 @@ The Filter page provides the ability to query the database and display the resul
 
 ![](images/filter-page.png)
 
-## Community Feedback
-
-We are interested in your experience using Bowfolio!  If you would like, please take a couple of minutes to fill out the [Bowfolios Feedback Form](https://forms.gle/hBHdccQEbm4YNfPd6). It contains only five short questions and will help us understand how to improve the system.
-
 
 ### Installation
 
@@ -90,6 +86,12 @@ $ meteor npm run start
 ```
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+
+## Community Feedback
+
+We are interested in your experience using Bowfolio!  If you would like, please take a couple of minutes to fill out the [ Feedback Form](https://forms.gle/hBHdccQEbm4YNfPd6). It contains only five short questions and will help us understand how to improve the system.
+
 
 ## Team Contract
 [Contract](https://docs.google.com/document/d/1jCrtQtuHDYKzxooiK5d0gwH46wF7ocCgxg2zBi5oKk0/edit)
