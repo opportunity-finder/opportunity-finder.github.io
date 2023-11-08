@@ -6,13 +6,14 @@
 * [Overview](#overview)
 * [Implements](#implements)
 * [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
-* [Team](#team)
+* [Add Item](#add Item)
+* [Edit Item](#edit item)
+* [Community Feedback](#community-feedback)
+* [Installation](#installation)
+* [Team Contract](#team contract)
+* [Developers](#developers)
 
 ## Overview
 
