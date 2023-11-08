@@ -61,14 +61,14 @@ After logging in, you are taken to the home page, which presents a form where yo
 
 Once you are logged in, you can define new projects with the Add Project page:
 
-![](images/add-project-page.png)
+![](OP-add.png)
 
 
 ### Edit Item
 
 The Filter page provides the ability to query the database and display the results in the page. In this case, the query displays all of the Profiles that match one or more of the specified Interest(s).
 
-![](images/filter-page.png)
+![](OP-edit.png)
 
 
 ### Installation
