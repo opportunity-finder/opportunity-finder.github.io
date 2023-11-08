@@ -55,7 +55,7 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
 
-![](images/home-page.png)
+![](OP-profile.png)
 
 ### Add Item
 
