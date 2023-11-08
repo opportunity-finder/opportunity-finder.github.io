@@ -1,68 +1,43 @@
 # Opportunity Finder
 
-## Team Contract
-[Contract](https://docs.google.com/document/d/1jCrtQtuHDYKzxooiK5d0gwH46wF7ocCgxg2zBi5oKk0/edit)
 
 ## Table of contents
 
 * [Overview](#overview)
-* [Deployment](#deployment)
+* [Implements](#implements)
 * [User Guide](#user-guide)
+* [Landing Page](#Landing-Page)
+* [Sign in and sign up](#Sign-in-and-sign-up)
+* [Home page](#home-page)
+* [Add Item](#add-item)
+* [Edit Item](#edit-item)
 * [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
-* [Team](#team)
+* [Installation](#installation)
+* [Team Contract](#team-contract)
+* [Developers](#developers)
 
 ## Overview
 
-BowFolios is an example web application that provides pages to view and (in some cases) modify profiles, projects, and interests. It illustrates various technologies useful to ICS software engineering students, including:
+Many UH computer science and engineering students want to learn about internship and job opportunities, but currently they must wait until a company decides to visit the campus or send out some sort of announcement. There is no efficient way for students to understand the “landscape” of internship and job opportunities that might be available in the future, so they can prepare for them now. 
 
+## Implements
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
-It also provides code that implements a variety of useful design concepts, including:
-
-* Three primary collections (Profiles, Projects, Interests) as well as three "join" Collections (ProfilesInterests, ProfilesProjects, and ProjectsInterests) that implement many-to-many relationships between them.
-* Top-level index pages (Profiles, Interests, and Projects) that show how to manipulate these six collections in various ways.
-* Initialization code to define default Profiles, Interests, and Projects and relations between them.
-* A simple Filter page to illustrate how to perform simple queries on the database and display the results.
-* Use of Meteor Methods to illustrate how to simplify implementation of multiple collection updates.
-* Use of indexes to enforce uniqueness of certain fields in the collections, enabling them to serve as primary keys.
-* Authentication using the built-in Meteor accounts package along with Sign Up and Sign In pages.
-* Authorization examples: certain pages are public (Profiles, Projects, Interests), while other pages require login (AddProject, Filter).
-* Use of Meteor Assets to initialize the database (helpful when initialization exceeds settings file size limits).
 
 ## User Guide
 
-This section provides a walkthrough of the Bowfolios user interface and its capabilities.
+This section provides a walkthrough of the Company Connector interface and its capabilities.
 
 ### Landing Page
+----------
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
 ![](images/landing-page.png)
 <img src="page1.png">
-
-### Index pages (Projects, Profiles, Interests)
-
-Bowfolios provides three public pages that present the contents of the database organized in various ways.
-
-The Profiles page shows all the current defined profiles and their associated Projects and Interests:
-
-![](images/profiles-page.png)
-
-The Projects page shows all the currently defined Projects and their associated Profiles and Interests:
-
-![](images/projects-page.png)
-
-Finally, the Interests page shows all the currently defined Interests, and their associated Profiles and Projects:
-
-![](images/interests-page.png)
 
 
 ### Sign in and sign up
@@ -81,26 +56,19 @@ After logging in, you are taken to the home page, which presents a form where yo
 
 ![](images/home-page.png)
 
-### Add Project page
+### Add Item
 
 Once you are logged in, you can define new projects with the Add Project page:
 
 ![](images/add-project-page.png)
 
 
-### Filter page
+### Edit Item
 
 The Filter page provides the ability to query the database and display the results in the page. In this case, the query displays all of the Profiles that match one or more of the specified Interest(s).
 
 ![](images/filter-page.png)
 
-## Community Feedback
-
-We are interested in your experience using Bowfolio!  If you would like, please take a couple of minutes to fill out the [Bowfolios Feedback Form](https://forms.gle/hBHdccQEbm4YNfPd6). It contains only five short questions and will help us understand how to improve the system.
-
-## Developer Guide
-
-This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
 
 ### Installation
 
@@ -122,6 +90,27 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
+
+## Community Feedback
+
+We are interested in your experience using Bowfolio!  If you would like, please take a couple of minutes to fill out the [ Feedback Form](https://forms.gle/hBHdccQEbm4YNfPd6). It contains only five short questions and will help us understand how to improve the system.
+
+
+## Team Contract
+[Contract](https://docs.google.com/document/d/1jCrtQtuHDYKzxooiK5d0gwH46wF7ocCgxg2zBi5oKk0/edit)
+
+## Developers
+
+1. Juvy Ann Lucero
+2. Matthew Fallah
+3. Ethan Mamuad 
+4. Yafei, Wang
+
+
+///////////////////////////////////////////////////////
+
+----------
+----------
 ### Application Design
 
 Bowfolios is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Bowfolios.
@@ -339,3 +328,22 @@ There are a number of simple enhancements you can make to the system to become b
 ## Team
 
 BowFolios is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org) and [Cam Moore](https://cammoore.github.io/).
+
+
+///////////////////////////
+### Index pages (Projects, Profiles, Interests)
+
+Bowfolios provides three public pages that present the contents of the database organized in various ways.
+
+The Profiles page shows all the current defined profiles and their associated Projects and Interests:
+
+![](images/profiles-page.png)
+
+The Projects page shows all the currently defined Projects and their associated Profiles and Interests:
+
+![](images/projects-page.png)
+
+Finally, the Interests page shows all the currently defined Interests, and their associated Profiles and Projects:
+
+![](images/interests-page.png)
+
