@@ -8,11 +8,11 @@
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Add Item](#add Item)
-* [Edit Item](#edit item)
+* [Add Item](#add-item)
+* [Edit Item](#edit-item)
 * [Community Feedback](#community-feedback)
 * [Installation](#installation)
-* [Team Contract](#team contract)
+* [Team Contract](#team-contract)
 * [Developers](#developers)
 
 ## Overview
