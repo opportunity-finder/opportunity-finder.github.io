@@ -38,7 +38,7 @@ This section provides a walkthrough of the Company Connector interface and its c
 The landing page is presented to users when they visit the top-level URL to the site.
 
 
-<img src="OP-home.png">
+<img src="Landing-page.png">
 
 
 ### Sign in and sign up
