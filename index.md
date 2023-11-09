@@ -49,7 +49,7 @@ Click on the "Login" button in the upper right corner of the navbar, then select
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-![](OP-sinup.png)
+![](Sign-up.png)
 
 ### Home page
 
