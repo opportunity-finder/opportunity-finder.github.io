@@ -10,8 +10,6 @@
 * [Landing Page](#Landing-Page)
 * [Sign in and sign up](#Sign-in-and-sign-up)
 * [Home page](#home-page)
-* [Add Item](#add-item)
-* [Edit Item](#edit-item)
 * [Community Feedback](#community-feedback)
 * [Installation](#installation)
 * [Team Contract](#team-contract)
@@ -56,20 +54,6 @@ Alternatively, you can select "Sign up" to go to the following page and register
 After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
 
 ![](OP-profile.png)
-
-### Add Item
-
-Once you are logged in, you can define new projects with the Add Project page:
-
-![](OP-add.png)
-
-
-### Edit Item
-
-The Filter page provides the ability to query the database and display the results in the page. In this case, the query displays all of the Profiles that match one or more of the specified Interest(s).
-
-![](OP-edit.png)
-
 
 ### Installation
 
