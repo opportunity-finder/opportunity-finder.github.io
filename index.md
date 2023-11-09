@@ -7,9 +7,9 @@
 * [Overview](#overview)
 * [Implements](#implements)
 * [User Guide](#user-guide)
-* [Landing Page](#Landing-Page)
-* [Sign in and sign up](#Sign-in-and-sign-up)
-* [Home page](#home-page)
+* [Landing Page](#landing-Page)
+* [Log in/Sign up](#sign-in-and-sign-up)
+* [Student Information](#student-information)
 * [Community Feedback](#community-feedback)
 * [Installation](#installation)
 * [Team Contract](#team-contract)
@@ -17,7 +17,9 @@
 
 ## Overview
 
-Many UH computer science and engineering students want to learn about internship and job opportunities, but currently they must wait until a company decides to visit the campus or send out some sort of announcement. There is no efficient way for students to understand the “landscape” of internship and job opportunities that might be available in the future, so they can prepare for them now. 
+The problem: Many UH computer science and engineering students want to learn about internship and job opportunities, but currently they must wait until a company decides to visit the campus or send out some sort of announcement. There is no efficient way for students to understand the “landscape” of internship and job opportunities that might be available in the future, so they can prepare for them now.
+
+The solution: The Company Connector web application provides a new way for local and non-local companies who want to recruit students from UH to make their (potential) opportunities known to students. At the same time, students can create profiles on the site with their interests. The site can match students to employers and vice-versa.
 
 ## Implements
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
@@ -31,7 +33,6 @@ Many UH computer science and engineering students want to learn about internship
 This section provides a walkthrough of the Company Connector interface and its capabilities.
 
 ### Landing Page
-----------
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
@@ -39,21 +40,21 @@ The landing page is presented to users when they visit the top-level URL to the 
 <img src="Landing-page.png">
 
 
-### Sign in and sign up
+### Signing In and Signing Up
 
-Click on the "Login" button in the upper right corner of the navbar, then select "Submit" to go to the following page and login. You must have been previously registered with the system to use this option:
+Click on the "Login" button in the upper right corner of the navbar, then select "Log In". You must have been previously registered with the system to use this option:
 
-![](OP-login.png)
+![](Log-in.png)
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
 ![](Sign-up.png)
 
-### Home page
+### Student Information
 
-After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
+As a student user after signing up, you are taken to a page, which presents a form where you can complete and/or update your personal profile that will help you find the best opportunities with employers that match your profile information:
 
-![](OP-profile.png)
+![](Student-info.png)
 
 ### Installation
 
