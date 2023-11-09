@@ -77,6 +77,8 @@ $ meteor npm run start
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
 
+## Milestones
+[M1](https://github.com/orgs/opportunity-finder/projects/1)
 ## Community Feedback
 
 We are interested in your experience using Opportunity Finder!  If you would like, please take a couple of minutes to fill out the [ Feedback Form](https://forms.gle/hBHdccQEbm4YNfPd6). It contains only five short questions and will help us understand how to improve the system.
