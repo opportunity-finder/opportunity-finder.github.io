@@ -37,14 +37,14 @@ This section provides a walkthrough of the Company Connector interface and its c
 The landing page is presented to users when they visit the top-level URL to the site.
 
 
-<img src="Landing-page.png">
+<img src="Lading-M1.png">
 
 
 ### Signing In and Signing Up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Log In". You must have been previously registered with the system to use this option:
 
-![](Log-in.png)
+![](signin-M1.png)
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
