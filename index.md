@@ -60,7 +60,7 @@ As a student user after signing up, you are taken to a page, which presents a fo
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, visit the [Opportunity Finder application github page](https://github.com/bowfolios/bowfolios), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+Second, visit the [Opportunity Finder application github page](https://github.com/opportunity-finder/opportunity-finder-meteor), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
 
 Third, cd into the Opportunity-Finder/app directory and install libraries with:
 
