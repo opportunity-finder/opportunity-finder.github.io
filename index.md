@@ -54,7 +54,7 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 As a student user after signing up, you are taken to a page, which presents a form where you can complete and/or update your personal profile that will help you find the best opportunities with employers that match your profile information:
 
-![](Student-info.png)
+![](Profile-pages.png)
 
 ### Installation
 
