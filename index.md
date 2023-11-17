@@ -7,6 +7,7 @@
 * [Overview](#overview)
 * [Implements](#implements)
 * [User Guide](#user-guide)
+* [Landing Page](#landing-page)
 * [Landing Page](#landing-Page)
 * [Log in/Sign up](#sign-in-and-sign-up)
 * [Student Information](#student-information)
