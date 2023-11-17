@@ -10,6 +10,9 @@
 * [Landing Page](#landing-Page)
 * [Log in/Sign up](#sign-in-and-sign-up)
 * [Student Information](#student-information)
+* [Student Home](#student-home)
+* [Company Home](#company-home)
+* [About Us](#about-us)
 * [Community Feedback](#community-feedback)
 * [Installation](#installation)
 * [Team Contract](#team-contract)
@@ -58,19 +61,19 @@ As a student user after signing up, you are taken to a page, which presents a fo
 
 ### Student Home
 
-As a student user after signing up, you are taken to a page, which presents a form where you can complete and/or update your personal profile that will help you find the best opportunities with employers that match your profile information:
+Student user informations, which presents personal profile that will help you find the best opportunities with employers that match your profile information:
 
 ![](Student-page.png)
 
 ### Company Home
 
-As a student user after signing up, you are taken to a page, which presents a form where you can complete and/or update your personal profile that will help you find the best opportunities with employers that match your profile information:
+Company user informations, which presents companyl profile that will help student find the best opportunities with employers that match student profile information:
 
 ![](Company-page.png)
 
 ### About Us
 
-As a student user after signing up, you are taken to a page, which presents a form where you can complete and/or update your personal profile that will help you find the best opportunities with employers that match your profile information:
+Opportunity Finder information, Who we are and What we do:
 
 ![](AboutUs-page.png)
 
