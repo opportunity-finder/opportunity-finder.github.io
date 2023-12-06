@@ -117,6 +117,24 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 * [M1](https://github.com/orgs/opportunity-finder/projects/1)
 * [M2](https://github.com/orgs/opportunity-finder/projects/3)
 * [M3](https://github.com/orgs/opportunity-finder/projects/4/views/1)
+* Please use the following account information to test the code. If you have any ideas or suggestions, feel free to share them.
+
+We have three types of accounts: admin, student, and company.
+
+- Admin Account:
+  - Email: admin@foo.com
+  - Password: changeme
+  - Role: admin
+
+- Student Account:
+  - Email: john@foo.com
+  - Password: changeme
+  - Role: student
+
+- Company Account:
+  - Email: ethan@foo.com
+  - Password: changeme
+  - Role: employer
 
   
 ## Community Feedback
